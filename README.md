@@ -18,6 +18,6 @@
 
 <h2 align="center"> My projects </h2>
 <ul>
-<li><a href="https://makipetpaw.netlify.app/"> Cat Tinder/Gallery </a> </li>
-<li><a href="https://tactikalmakiroll.github.io/Moonmath/"> Moonmath calculator </a> </li>
+<li><a href="https://github.com/TactikalMakiRoll/Cat-gallery"> Cat Tinder/Gallery </a> </li>
+<li><a href="https://github.com/TactikalMakiRoll/Moonmath"> Moonmath calculator </a> </li>
 </ul>
