@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Oleksandr</h1>
 <h3>A frontend developer from Ukraine</h3>
-<h4>My passion is creating personally styled interesting projects that are fun to interact with or that teach me programming concepts. Blindly following tutorials is boring!</h4>
+<h4>I like creating personally styled interesting projects that are fun to interact with or that teach me programming concepts.</h4>
 
 <h5>📫 Email: sagridin@gmail.com </h5>
 <h5>💬 Telegram: @onekxCatcher</h5>
